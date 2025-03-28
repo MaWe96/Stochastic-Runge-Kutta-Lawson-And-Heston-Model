@@ -10,4 +10,4 @@ Key topics:
 - Appendix: MATLAB code and mathematical formulation of SKRL-applied Heston model.
 
 Key results:
-- The study demonstrates that SRKL Euler–Maruyama schemes show promise in improving pricing for both simple and path-dependent options, offering advantages for option valuation in stochastic volatility models like the Heston model.
+The study demonstrates that SRKL Euler–Maruyama schemes show promise in improving pricing for both simple and path-dependent options, offering advantages for option valuation in stochastic volatility models like the Heston model.
